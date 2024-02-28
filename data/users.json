@@ -1,0 +1,49 @@
+
+    {
+        "users": [
+            {
+                "username": "Atuny",
+                "position":"Web Designer",
+                "thumbnail":"https://i.pinimg.com/1200x/b1/88/c6/b188c6801ad1d71d3c962c6e4aa2d0cf.jpg"
+            },
+            {
+                "username": "Hbingley",
+                "position":"Web Designer",
+                "thumbnail":"https://img.freepik.com/premium-vector/man-profile-cartoon_18591-58482.jpg?w=2000"
+            },
+            {
+                "username": "Rshawe",
+                "position":"Javascript Developer",
+                "thumbnail":"https://img.freepik.com/premium-vector/woman-profile-cartoon_18591-58480.jpg"
+              
+            },
+            {
+                
+                "username": "Yraigatt",
+                "position":"UI/UX Designer",
+                "thumbnail":"https://img.freepik.com/premium-vector/woman-profile-cartoon_18591-58478.jpg?w=360"
+            },
+            {
+                "username": "Kmeus",
+                "position":"Backend Developer",
+                "thumbnail":"https://img.freepik.com/premium-vector/woman-profile-cartoon_18591-58477.jpg"
+            },
+            {
+
+                "username": "Ktreleven",
+                "position":"Team Lead",
+                "thumbnail":"https://img.freepik.com/premium-vector/woman-profile-cartoon_18591-58476.jpg"
+            },
+            {
+                "username": "Dpettegre",
+                "position":"Project Manager",
+                "thumbnail":"https://img.freepik.com/premium-vector/man-profile-cartoon_18591-58484.jpg"
+            },
+            {
+            
+                "username": "Ggude",
+                "position":"Marketing Specialist",
+                "thumbnail":"https://img.freepik.com/premium-vector/man-profile-cartoon_18591-58483.jpg"
+            }
+        ]
+    }        
